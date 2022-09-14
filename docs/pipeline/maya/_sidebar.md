@@ -1,10 +1,7 @@
 * [更新日志](/pipeline/maya/update.md)
 
-* 简介
-  * [启动](/pipeline/maya/quickstart.md)
-
 * Interface
-  * [切换任务](/pipeline/maya/interface/task.md)
+  * [切换制作任务](/pipeline/maya/interface/quick_task.md)
   * [常用插件管理](/pipeline/maya/interface/quick_tool.md)
 
 * 通用工具集
@@ -15,7 +12,8 @@
 
 * 资产工具集
   * [模型打组命名](/pipeline/maya/tool/modeling/model_group.md)
-  * 
+  * [同源gpu选择](/pipeline/maya/tool/modeling/cognate_gpu.md)
+  * [阿诺德细分设置](/pipeline/maya/tool/modeling/arnold_subdivision.md)
 
 * 绑定工具集
   * [UV传递](/pipeline/maya/tool/rigging/transfer_uv.md)

@@ -9,6 +9,9 @@
   * [场景](/desktop/project/assembly.md)
   * [镜头](/desktop/project/shot.md)
 
+* 项目设置
+  * [项目变量](/desktop/project/variable.md)
+
 * 系统功能
   * [审核系统](/desktop/module/review.md)
   * [审批系统](/desktop/module/approval.md)

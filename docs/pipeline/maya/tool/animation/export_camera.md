@@ -1,4 +1,3 @@
-# maya批量导出摄像机
 批量导出摄像机文件,支持格式 `ma` `mb` `fbx` `alembic`
 
 ## 启动插件
@@ -15,6 +14,3 @@
 
 ## UI
 ![](pipeline/../../../images/export_camera.png)
-
-
-

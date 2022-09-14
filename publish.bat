@@ -1,2 +1,2 @@
 
-XCOPY D:\lanhua.zhou\develop\zfused\zfused_document\* \\td\zfused\zfused_document /s /e /y
+XCOPY D:\lanhua.zhou\develop\zfused\zfused.github.io\* \\td\zfused\zfused_document /s /e /y

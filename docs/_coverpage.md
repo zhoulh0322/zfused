@@ -8,9 +8,9 @@
 
 
 [zFused Desktop](desktop/)
-[zFused Pipeline](pipeline/maya/)
+[zFused Pipeline](pipeline/)
 [zFused Outsource](outsource/maya/)
-[Get Started](pipeline/maya/)
+[Get Started](pipeline/)
 
 
 <!-- 背景图片 -->

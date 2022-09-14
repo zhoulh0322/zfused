@@ -1,26 +1,40 @@
-可自定义屏显拍屏系统，基于qt二次开发显示，完全可自定义
+用于和DCC软件交互设计的自定义变量
 
-## 启动插件
-- 菜单启动 
-    `zfused_maya` > `utility` > `playblast`
-- 代码启动
-    ```python
-    from zfused_maya.tool.technology.playblast import playblast_maya
-    window = playblast_maya.Playblast()
-    window.show()
-    ```
+## ocio_aces
+- 类型 `str`
+- 默认数值 `None`
 
-## UI
-![](pipeline/../../../images/playblast.png)
+色彩空间方案，如需特殊色彩空间方案，配置.ocio特殊方案
 
-## 拍屏设置
-- 按照项目配置自动化设置尺寸，可支持 `1.0` `0.5` 倍缩放拍屏
-- 可自定义设置存放目录，默认为当前文件地址
+## clear_unused
+- 类型 `bool`
+- 默认数值 `1`
 
-## 自定义配置
-- 以`json`格式作为配置化文件，需提交到`zFused`项目变量里面
-- 项目变量名为：`playblast_maya`
+制作文件方面是否自动清除未使用节点
 
+## incremental_save
+- 类型 `bool`
+- 默认数值 `1`
+
+保存文件的时候，是否开启增量保存
+
+## is_sync_backup_external_files
+- 类型 `bool`
+- 默认数值 `1`
+
+备份上传制作文件的时候，是否上传依赖扩展文件，默认`1`上传依赖文件，反则不上传依赖文件
+
+## work_with_no_version
+- 类型 `bool`
+- 默认数值 `0`
+
+制作是否带版本号制作，默认`0`为带版本号制作，`1`为不带版本号制作
+
+## playblast_maya
+- 类型 `dict`
+- 默认数值 
+
+`maya`自定义拍屏变量设置
 ```python
 {
     "hud": [
