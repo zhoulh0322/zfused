@@ -8,6 +8,7 @@
   * [资产](/desktop/project/asset.md)
   * [场景](/desktop/project/assembly.md)
   * [镜头](/desktop/project/shot.md)
+  * [任务](/desktop/project/task.md)
 
 * 项目设置
   * [项目变量](/desktop/project/variable.md)
