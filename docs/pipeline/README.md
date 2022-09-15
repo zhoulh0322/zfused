@@ -1,4 +1,4 @@
-# 启动器 `zFused Link App` 安装与更新
+# 启动器 `zFused Link` 安装与更新
 ---
 
 ## 安装

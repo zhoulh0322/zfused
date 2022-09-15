@@ -4,6 +4,7 @@
 - 项目任务模版支持按 `状态` `人员` `环节` 分组
 
 ![](images/project/task/task_group_by.png)
+
 ## 3.2.5
 > 2022.09.09
 - 新增[`Note`](desktop/module/note.md)系统模块
