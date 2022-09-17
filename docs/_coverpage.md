@@ -10,7 +10,7 @@
 [zFused Desktop](desktop/)
 [zFused Pipeline](pipeline/)
 [zFused Outsource](outsource/maya/)
-[Get Started](pipeline/)
+[Get Started]()
 
 
 <!-- 背景图片 -->

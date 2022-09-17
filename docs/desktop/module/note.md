@@ -25,10 +25,10 @@ note主旨是登记记录 `entity` 的一些重要信息
 
 - 面板显示
 
-![quick note](../images/module/note/task_panel_notes.png ':size=63%')
+![quick note](../images/module/note/task_panel_notes.png ':size=70%')
 > 点击眼睛按钮可查看具体描述信息
 
-![quick note](../images/module/note/note_markdown.png ':size=63%')
+![quick note](../images/module/note/note_markdown.png ':size=70%')
 
 
 - `talk`窗口显示
