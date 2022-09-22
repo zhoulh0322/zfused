@@ -25,6 +25,10 @@
   * 
 
 * 特效工具集
-  * [xxx](/pipeline/maya/tool/utility/playblast.md)
+  * [gpu转模型](/pipeline/maya/tool/utility/gpu_to_model.md)
 
 * 灯光工具集
+  * [灯光]
+
+* 汇总 待定
+  * [灯光预渲](/pipeline/maya/tool/utility/pre_light.md)

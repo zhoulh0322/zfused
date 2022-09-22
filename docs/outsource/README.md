@@ -15,7 +15,7 @@
 ## 插件更新
 __1. 从我们的github地址下载最新的pipeline代码 [`仓库地址`](https://github.com/zhoulh0322/zfused_outsource)__
 
-![](sources/image/install/githubpath.jpg)
+![](sources/image/install/githubpath.jpg ':size=80%')
 
 __2. 插件内部的更新按钮__
 
@@ -31,15 +31,15 @@ ui.show()
 ## DCC插件安装
 Maya 插件安装
 + 将useSetup.py 文件 拷贝至 我的文档\maya\版本\scripts\目录下
-+ P:\zfused\pipeline\zfused_outsource\scripts\maya\ userSetup.py
++ P:\zfused\pipeline\zfused_outsource\scripts\maya\userSetup.py
 
 Houdini 插件安装
 + 将123.py 文件拷贝至 我的文档 \houdini版本 \scripts\目录下
-+ P:\zfused\pipeline\zfused_outsource\scripts\houdini\ 123.py
++ P:\zfused\pipeline\zfused_outsource\scripts\houdini\123.py
 
 Katana 插件安装
 + 将 init.py 文件拷贝至 C:\Users\用户名\.katana\Startup\ 目录下
-+ P:\zfused\pipeline\zfused_outsource\scripts\katana\ init.py
++ P:\zfused\pipeline\zfused_outsource\scripts\katana\init.py
 
 ## 公司登陆
 插件需要设置公司名称，点击设置切换公司
