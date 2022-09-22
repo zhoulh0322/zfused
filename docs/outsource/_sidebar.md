@@ -1,7 +1,7 @@
-* [Maya](/pipeline/maya/)
+* [插件安装与更新](/outsource/README.md)
 
-* [Houdini](/pipeline/houdini/)
-
-* [Nuke](/pipeline/houdini/)
-
-* [UE](/pipeline/ue/)
+* pipeline
+  * [Maya](/outsource/maya/)
+  * [Houdini](/outsource/houdini/)
+  * [Nuke](/outsource/nuke/)
+  * [UE](/outsource/ue/)

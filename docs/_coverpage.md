@@ -7,9 +7,9 @@
 - ![](_logo/maya-logo.png ':size=40x40') ![](_logo/mari-logo.png ':size=40x40') ![](_logo/katana-logo.png" ':size=40x40') ![](_logo/ue-logo.png ':size=40x40') ![](_logo/houdini-logo.png ':size=40x40')
 
 
-[zFused Desktop](desktop/)
-[zFused Pipeline](pipeline/)
-[zFused Outsource](outsource/maya/)
+[zFused Desktop](desktop/README)
+[zFused Pipeline](pipeline/README)
+[zFused Outsource](outsource/README)
 [Get Started]()
 
 
