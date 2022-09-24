@@ -10,7 +10,7 @@
 [zFused Desktop](desktop/README)
 [zFused Pipeline](pipeline/README)
 [zFused Outsource](outsource/README)
-[Get Started]()
+[Get Started](README)
 
 
 <!-- 背景图片 -->
