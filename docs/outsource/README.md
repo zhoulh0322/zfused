@@ -15,7 +15,7 @@
 ## 插件更新
 __1. 从我们的github地址下载最新的pipeline代码 [`仓库地址`](https://github.com/zhoulh0322/zfused_outsource)__
 
-![](sources/image/install/githubpath.jpg ':size=80%')
+![](sources/image/install/githubpath.jpg ':size=60%')
 
 __2. 插件内部的更新按钮__
 
@@ -28,16 +28,21 @@ ui = updatewidget.UpdateWidget()
 ui.show()
 ```
 
+__4. 更新插件后，`reload` 重新加载插件__
+- `zfused_outsource` > `init` > ` refresh and reload`
+
+![](sources/image/install/refresh.png)
+
 ## DCC插件安装
-Maya 插件安装
+__Maya 插件安装__
 + 将useSetup.py 文件 拷贝至 我的文档\maya\版本\scripts\目录下
 + P:\zfused\pipeline\zfused_outsource\scripts\maya\userSetup.py
 
-Houdini 插件安装
+__Houdini 插件安装__
 + 将123.py 文件拷贝至 我的文档 \houdini版本 \scripts\目录下
 + P:\zfused\pipeline\zfused_outsource\scripts\houdini\123.py
 
-Katana 插件安装
+__Katana 插件安装__
 + 将 init.py 文件拷贝至 C:\Users\用户名\.katana\Startup\ 目录下
 + P:\zfused\pipeline\zfused_outsource\scripts\katana\init.py
 
@@ -54,3 +59,19 @@ Katana 插件安装
 插件设置公司后可切换至具体项目
 
 ![](sources/image/install/project_set.jpg)
+
+## 项目文件夹权限检查
+外包没有`zfused transfer`服务中转传输协议，所以需要所有项目文件夹`读取` `写入`权限
+
+?> 如果报错的，需联系 `IT` 予以解决，不然`zfused`发布或者领取会失败！
+
+- 菜单启动文件夹权限检查
+`zfused` 提供权限检查插件 `zfused_outsource` > `init` > `project path permission`
+- 代码启动文件夹去权限检查
+    ```python
+    from zfused_maya.tool.init import permission_widget
+    window = permission_widget.PermissionWidget()
+    window.show()
+    ```
+
+![](sources/image/install/project_path_permission.png)
