@@ -66,8 +66,10 @@ __Katana 插件安装__
 ?> 如果报错的，需联系 `IT` 予以解决，不然`zfused`发布或者领取会失败！
 
 - 菜单启动文件夹权限检查
-`zfused` 提供权限检查插件 `zfused_outsource` > `init` > `project path permission`
+
+    `zfused` 提供权限检查插件 `zfused_outsource` > `init` > `project path permission`
 - 代码启动文件夹去权限检查
+
     ```python
     from zfused_maya.tool.init import permission_widget
     window = permission_widget.PermissionWidget()
