@@ -8,3 +8,7 @@
   
 * 资产工具集
   * [模型打组命名](/outsource/maya/tool/modeling/model_group.md)
+
+* 镜头工具集
+  * [开无版本号动画文件](/outsource/maya/tool/animation/no_version_file.md)
+  * [提取发布文件信息](/outsource/maya/tool/utility/extract_property.md)
