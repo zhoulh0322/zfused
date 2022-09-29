@@ -1,8 +1,10 @@
 * [**更新日志**](/pipeline/maya/update.md)
 
+* **小白分区**
+  * [基本流程](/pipeline/maya/getting_started/pipeline.md)
+
 * **Interface**
   * [切换制作任务](/pipeline/maya/interface/quick_task.md)
-  * [领取上游文件](/pipeline/maya/interface/down_file.md)
   * [常用插件管理](/pipeline/maya/interface/quick_tool.md)
 
 * 通用工具集

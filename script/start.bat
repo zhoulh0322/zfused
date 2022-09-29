@@ -2,4 +2,4 @@
 @echo off
 cd /d %~dp0
 cd ..
-docsify serve docs
+docsify serve docs -p 80
