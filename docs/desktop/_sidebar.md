@@ -1,7 +1,6 @@
 * [**更新日志**](/desktop/update.md)
 
 * 我的任务
-    * [快速开始](/desktop/quickstart.md)
 
 * 项目管理
   * [切换项目](/desktop/project/project.md)
