@@ -30,7 +30,7 @@
    
    ![](../../maya/images/getting_start/auto_get/arrange_task.png)
 
-**2. 在`我的任务`中找到当前制作的任务**  （如果找不到任务可能是任务状态不对，应该改成制作中）
+**2. 在`utility` > `我的任务`（图中右上角箭头起始处图标为快捷入口）中找到当前制作的任务**  （如果找不到任务可能是任务状态不对，应该改成制作中）
 
    ![](../../maya/images/getting_start/auto_get/find_selftask.png)
 

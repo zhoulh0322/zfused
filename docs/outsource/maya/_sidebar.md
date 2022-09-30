@@ -15,3 +15,6 @@
 * 镜头工具集
   * [开无版本号动画文件](/outsource/maya/tool/animation/no_version_file.md)
   * [提取发布文件信息](/outsource/maya/tool/utility/extract_property.md)
+
+* 项目流程说明
+  * [BKM3](/outsource/maya/project/BKM3/pipeline_BKM3.md)

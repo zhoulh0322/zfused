@@ -7,7 +7,7 @@
 **1. 选取一位幸运TD帮你开通zf账户**  
   （等待开通过程中可以先进行下面步骤）
 
-**2. 我的电脑进入网络位置 `\\td\apps`, 拷贝 `zFusedLinkApp` 文件夹到本地路径 (D盘或E盘)**
+**2. 复制路径 `\\td\apps`在文件夹中打开, 拷贝 `zFusedLinkApp` 文件夹到本地路径 （D盘或E盘）**
 
 ![安装](pipeline/../images/install&update/link_install.png)
 
@@ -37,9 +37,9 @@ zFused会不定时更新，当界面上方偏左出现绿色按钮 **现在更�
   
 **解决办法一：**  
 
-找到zFused安装路径（如果不知道安装路径在哪请看下图，安装包内部就长这样并且名为zFusedLinkApp，一般在D或盘之类的本地盘）删掉最近一个版本的文件夹（红框）  
+找到zFused安装路径（如果不知道安装路径在哪请看下图，安装包内部就长这样并且名为`zFusedLinkApp`，一般在D或盘之类的本地盘）删掉**最近一个版本**的文件夹（红框）  
 ![登录](pipeline/../images/install&update/link_delete.png)
 
 **解决办法二：**  
 
-重装zFused
+整个删掉现有的`zFusedLinkApp`安装包，重新安装
