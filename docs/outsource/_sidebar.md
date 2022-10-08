@@ -1,3 +1,5 @@
+* [**更新日志**](/outsource/update.md)
+
 * [**插件安装与更新**](/outsource/README.md)
 
 * **DCC PIPELINE**

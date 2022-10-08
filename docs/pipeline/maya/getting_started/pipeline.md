@@ -2,7 +2,7 @@
 
 ## 启动maya
      
-  zf界面*`我的任务`中，切换对应任务的项目，点击maya启动  
+  zf界面`我的任务`中，切换对应任务的项目，点击maya启动  
    
    ![](../../maya/images/getting_start/entrance.png)
 

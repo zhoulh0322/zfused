@@ -1,4 +1,4 @@
-* [**更新日志**](/outsource/maya/update.md)
+<!-- * [**更新日志**](/outsource/maya/update.md) -->
 
 * [**插件安装**](/outsource/README.md)
 
