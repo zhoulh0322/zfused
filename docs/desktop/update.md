@@ -1,3 +1,12 @@
+## 3.2.5.8
+2022.0.09
+- 新增项目环节依赖节点展示
+
+![](images/update/Snipaste_2022-10-09_11-35-17.png ':size=50%')
+- 任务节点展示显示需要更新警告
+
+![](images/update/Snipaste_2022-10-09_11-34-11.png ':size=50%')
+
 ## 3.2.5.5
 2022.09.29
 - 更新任务 `node editor` 预览模块
@@ -16,7 +25,7 @@
 > 2022.09.14
 - 项目任务模版支持按 `状态` `人员` `环节` 分组
 
-![](images/project/task/task_group_by.png)
+![](images/project/task/task_group_by.png ':size=50%')
 
 ## 3.2.5
 > 2022.09.09
