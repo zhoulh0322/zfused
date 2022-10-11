@@ -13,7 +13,7 @@
     ```
 
 ## UI
-![](pipeline/../../../images/export_camera.png)  
+![](outsource/../../../images/animation/export_camera.png)  
 
 ## 导出当前文件摄像机  
 1. 设置`导出文件夹路径`，摄像机将会导出到该路径下

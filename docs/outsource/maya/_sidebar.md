@@ -16,5 +16,9 @@
   * [开无版本号动画文件](/outsource/maya/tool/animation/no_version_file.md)
   * [提取发布文件信息](/outsource/maya/tool/utility/extract_property.md)
 
+* 动画工具集
+  * [拍屏工具](/outsource/maya/tool/utility/playblast.md)
+  * [批量导出相机工具](/outsource/maya/tool/animation/export_camera.md)
+
 * 项目流程说明
   * [BKM3](/outsource/maya/project/BKM3/pipeline_BKM3.md)
