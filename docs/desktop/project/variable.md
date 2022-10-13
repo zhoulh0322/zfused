@@ -42,7 +42,7 @@
 
 ## default_namespace
 - 类型 `str`
-- 默认数值 `__ns__00
+- 默认数值 `__ns__00`
   
 文件参考默认namespace `空间名`
 
