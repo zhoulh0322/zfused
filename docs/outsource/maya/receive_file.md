@@ -3,28 +3,28 @@
 ?> 以灯光文件组装为案例
 
 ## 启动插件
-- 菜单启动
+- 菜单启动  
   `zfused_outsource` > `utility` > `task manage`
-- 代码启动
+- 代码启动  
     ```python
     from zfused_maya.tool.utility.taskmanage import taskmanagewidget
     window = taskmanagewidget.TaskManageWidget()
     window.show()
     ```
-## UI
 
-![](images/lighting/lighting1.jpg)
+## UI
+![](images/lighting/lighting1.jpg ':size=600')
 
 ## 任务选择
 筛选出所有的解算任务，根据场次、镜头号双击进入任务发布窗口
 亦可根据场次、镜头号搜索、筛选任务，双击进入任务发布窗口
 
-![](images/lighting/lighting3.jpg)
+![](images/lighting/lighting3.jpg ':size=600')
 
 ## 首次组装
 首次领取，可能会直接打开动画文件或参考动画文件，根据项目需求设置
 
-![](images/lighting/lighting2.jpg)
+![](images/lighting/lighting2.jpg ':size=600')
 
 + 首次领取勾选左下角首次领取
 + 首次领取分为最新版本或无版本选择

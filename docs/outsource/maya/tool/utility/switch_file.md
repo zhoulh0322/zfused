@@ -11,7 +11,7 @@
     ```
 
 ## UI
-![](outsource/../../../images/utility/switch_file/main_ui.png)
+![](outsource/../../../images/utility/switch_file/main_ui.png ':size=600')
 
 
 ## 批量切换
@@ -19,4 +19,4 @@
 1. 选择切换至的步骤 __例如需要切换至`rig/hair`__
 2. 点击 `任务步骤批量更新` ，等待切换结束
 
-![](outsource/../../../images/utility/switch_file/batch_ui.png)
+![](outsource/../../../images/utility/switch_file/batch_ui.png ':size=600')

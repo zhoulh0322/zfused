@@ -36,15 +36,15 @@
 
 文件保存是否保留布局等ui信息
 
-## playblast_maya
-- 类型 `dict`
-- 默认数值 
-
 ## default_namespace
 - 类型 `str`
 - 默认数值 `__ns__00`
   
 文件参考默认namespace `空间名`
+
+## playblast_maya
+- 类型 `dict`
+- 默认数值 
 
 `maya`自定义拍屏变量设置
 ```python
