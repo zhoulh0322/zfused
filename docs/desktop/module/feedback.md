@@ -16,4 +16,18 @@
 ![](../images/module/feedback/Snipaste_2022-10-14_20-40-44.png ':size=600')  
 
 - 点击可查看详细信息  
-![](../images/module/feedback/Snipaste_2022-10-14_20-40-44.png ':size=600')  
+![](../images/module/feedback/Snipaste_2022-10-17_13-35-41.png ':size=600') 
+
+## 解决问题
+- 如果提交问题的时候不确认是哪个上游环节的问题，可以先提交问题，具体环节可由TD来确认更新  
+![](../images/module/feedback/Snipaste_2022-10-17_13-56-09.png ':size=600') 
+
+- 涉及到的相关任务环节，在解决问题后，需设置对应任务已解决  
+![](../images/module/feedback/Snipaste_2022-10-17_13-52-40.png ':size=600') 
+
+- 已完全解决问题后，可由制片或者TD设置问题已完全解决  
+![](../images/module/feedback/Snipaste_2022-10-17_13-54-49.png ':size=600') 
+
+## 查看相关反馈
+- 查看与自己相关的问题反馈，包含自己提交的问题，问题涉及到自己的任务，抄送给自己的问题   
+![](../images/module/feedback/Snipaste_2022-10-17_14-03-35.png ':size=600') 

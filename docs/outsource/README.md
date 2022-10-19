@@ -10,16 +10,16 @@
 + 插件完整地址 ：P:\zfused\pipeline  (本路径需开通读取和修改权限)
 + 插件完整路径：P:\zfused\pipeline\zfused_outsource
 
-![](sources/image/install/install_path.jpg)
+![](sources/image/install/install_path.jpg ':size=600')
 
 ## 插件更新
 __1. 从我们的github地址下载最新的pipeline代码 [`仓库地址`](https://github.com/zhoulh0322/zfused_outsource)__
 
-![](sources/image/install/githubpath.jpg ':size=60%')
+![](sources/image/install/githubpath.jpg ':size=600')
 
 __2. 插件内部的更新按钮__
 
-![](sources/image/install/mayaupdate.jpg)
+![](sources/image/install/mayaupdate.jpg ':size=600')
 
 __3. 插件内部的更新命令__
 ```python
@@ -31,7 +31,7 @@ ui.show()
 __4. 更新插件后，`reload` 重新加载插件__
 - `zfused_outsource` > `init` > ` refresh and reload`
 
-![](sources/image/install/refresh.png)
+![](sources/image/install/refresh.png ':size=600')
 
 ## DCC插件安装
 __Maya 插件安装__
@@ -49,16 +49,16 @@ __Katana 插件安装__
 ## 公司登陆
 插件需要设置公司名称，点击设置切换公司
 
-![](sources/image/install/company_change.jpg)
+![](sources/image/install/company_change.jpg ':size=600')
 
 插件初次启动，会提示输入公司名称，可填写公司简称，系统自动匹配
 
-![](sources/image/install/company_name.jpg)
+![](sources/image/install/company_name.jpg ':size=600')
 
 ## 项目选择
 插件设置公司后可切换至具体项目
 
-![](sources/image/install/project_set.jpg)
+![](sources/image/install/project_set.jpg ':size=600')
 
 ## 项目文件夹权限检查
 外包没有`zfused transfer`服务中转传输协议，所以需要所有项目文件夹`读取` `写入`权限
@@ -76,4 +76,4 @@ __Katana 插件安装__
     window.show()
     ```
 
-![](sources/image/install/project_path_permission.png)
+![](sources/image/install/project_path_permission.png ':size=600')
