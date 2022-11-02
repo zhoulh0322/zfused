@@ -10,7 +10,7 @@ note主旨是登记记录 `entity` 的一些重要信息
 - 选择 `entity` > 右击 > 新增note  
 ![新增note](../images/module/note/new_note_ui.png ':size=600')
 
-- 填写标题，详情，图片等等，确认提交  
+- 填写标题，详情，图片，文档等等，确认提交  
 ![note](../images/module/note/note_ui.png ':size=600')
 
 ## 显示`notes`  
@@ -23,9 +23,9 @@ note主旨是登记记录 `entity` 的一些重要信息
 ![quick note](../images/module/note/task_panel_notes.png ':size=600')
 
 - 点击眼睛按钮可查看具体描述信息  
-![quick note](../images/module/note/note_markdown.png ':size=600')
+![quick note](../images/module/note/Snipaste_2022-10-20_18-08-50.png ':size=600')
 
 
 - `talk`窗口显示
-  
-
+在聊天窗口可以有note记录  
+![quick note](../images/module/note/Snipaste_2022-10-20_18-11-43.png ':size=600')

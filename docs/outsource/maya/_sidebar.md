@@ -8,6 +8,7 @@
 
 * 常用工具集
   * [文件切换](/outsource/maya/tool/utility/switch_file.md)
+  * [项目步骤检查](/outsource/maya/tool/utility/project_step_checks.md)
   
 * 资产工具集
   * [模型打组命名](/outsource/maya/tool/modeling/model_group.md)

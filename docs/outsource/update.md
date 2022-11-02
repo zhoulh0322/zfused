@@ -1,3 +1,14 @@
+## 2022.10.26
+> zfused_maya version 0.2.3 非大版本更新，使用自带更新插件更新
+> 
+> [下载地址](https://pan.baidu.com/s/1cCC04cUvZMek47GMKTj-Og?pwd=8al8)
+- 修复一些bug
+
+## 2022.10.24
+> zfused_maya version 0.2.2.4 非大版本更新，使用自带更新插件更新
+- 更新项目环节检查UI,无修复命令的不显示修复按钮
+- 新增模型打组工具自动修复未存在属性
+
 
 ## 2022.10.11
 > zfused_maya version 0.2.2.3 非大版本更新，使用自带更新插件更新

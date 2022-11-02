@@ -11,7 +11,7 @@
     ```
 
 ## UI
-![](outsource/../../../images/animation/playblast.png)
+![](outsource/../../../images/animation/playblast.png ':size=600')
 
 ## 拍屏设置
 - 按照项目配置自动化设置尺寸，可支持 `1.0` `0.5` 倍缩放拍屏

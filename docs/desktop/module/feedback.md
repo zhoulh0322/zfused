@@ -9,6 +9,10 @@
 - 录入问题简述和具体描述，并提交截图或者视频，如果自身可以区分哪个上游环节的问题，可以自己勾上相关环节。  
 ![](../images/module/feedback/Snipaste_2022-10-14_20-38-12.png ':size=600')  
 
+- 如果自动关联的任务不是涉及的任务，可以筛选选择   
+![](../images/module/feedback/Snipaste_2022-10-20_16-51-17.png ':size=600')  
+![](../images/module/feedback/Snipaste_2022-10-20_16-51-45.png ':size=600')  
+
 - 提交问题反馈
 
 ## 反馈消息
@@ -20,7 +24,6 @@
 
 ## 解决问题
 - 如果提交问题的时候不确认是哪个上游环节的问题，可以先提交问题，具体环节可由TD来确认更新  
-![](../images/module/feedback/Snipaste_2022-10-17_13-56-09.png ':size=600') 
 
 - 涉及到的相关任务环节，在解决问题后，需设置对应任务已解决  
 ![](../images/module/feedback/Snipaste_2022-10-17_13-52-40.png ':size=600') 
