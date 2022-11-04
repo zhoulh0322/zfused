@@ -1,4 +1,8 @@
 ## 3.2.8.1
+2022.11.02
+- 修复一些消息接收bug
+
+## 3.2.8.1
 2022.10.31
 - 修复大量消息报错链接断开问题 [修复方法](https://www.deploymentresearch.com/fix-for-windows-10-exhausted-pool-of-tcpip-ports/)
 - 显示用户是否在线(会有部分延迟)
