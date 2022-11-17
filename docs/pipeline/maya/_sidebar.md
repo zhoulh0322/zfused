@@ -17,6 +17,7 @@
   * [模型打组命名](/pipeline/maya/tool/modeling/model_group.md)
   * [同源gpu选择](/pipeline/maya/tool/modeling/cognate_gpu.md)
   * [阿诺德细分设置](/pipeline/maya/tool/modeling/arnold_subdivision.md)
+  * [批量传递UV](/pipeline/maya/tool/modeling/transfer_uvs.md)
 
 * 绑定工具集
   * [UV传递](/pipeline/maya/tool/rigging/transfer_uv.md)
