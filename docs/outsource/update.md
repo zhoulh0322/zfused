@@ -1,3 +1,11 @@
+## 2022.11.29
+> 打包最新版本 
+> 
+> `下载地址`(https://pan.baidu.com/s/16kDlDCNdnIDWgTfcWY5mjg?pwd=h2mo)
+> 
+- 适配服务器
+
+
 ## 2022.11.21
 > zfused_api 修正数据传递 
 >
