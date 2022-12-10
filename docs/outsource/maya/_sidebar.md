@@ -3,6 +3,9 @@
 * [**插件安装**](/outsource/README.md)
 
 * 文件发布与组装
+  * [任务文件接收管理](/outsource/maya/tool/utility/task_receive_manage.md)
+
+* 文件发布与组装
   * [文件发布](/outsource/maya/publish_file.md)
   * [文件组装](/outsource/maya/receive_file.md)
 
