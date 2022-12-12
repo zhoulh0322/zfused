@@ -2,4 +2,4 @@
 @echo off
 cd /d %~dp0
 cd ..
-docsify serve docs -p 80
+C:\Users\lanhua.zhou.UNT\AppData\Roaming\npm\docsify.cmd serve docs -p 80
