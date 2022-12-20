@@ -5,12 +5,14 @@
 > 此功能目前支持传输多媒体文件
 
 ## 版本
-- `zFused Mini 0.0.1.0`版本，[点击下载](https://pan.baidu.com/s/1Vi4n_HOcnd47VjLJV8PyjQ?pwd=g0gk)
+- `zFused Desktop 3.3.2.2`版本
+- `zFused Link 1.3.2.2`版本
+- `zFused Mini 0.0.2.0`版本，[点击下载](https://pan.baidu.com/s/1tIETI-QcfotwcxAFsqrojg?pwd=i9bp)
 
 ## 上传临时文件
 `vnc`远程机器制作并上传`多媒体`文件至临时文件夹
 
-> zFused Desktop需更新至`3.3.2.1`版本，zFused Link需要更新至`1.3.2.1`版本
+> zFused Desktop需更新至`3.3.2.2`版本，zFused Link需要更新至`1.3.2.2`版本
 
 - 在`zFused Desktop`或者`zFused Link`软件右下角点击`临时文件夹`按钮  
 
@@ -25,7 +27,7 @@
 
 > 需安装`zFused Mini`
 > 
-> [安装地址](https://pan.baidu.com/s/1Vi4n_HOcnd47VjLJV8PyjQ?pwd=g0gk)
+> [安装地址](https://pan.baidu.com/s/1tIETI-QcfotwcxAFsqrojg?pwd=i9bp)
 
 - 打开`zFused Mini`软件，登陆
 - 登陆密码为`zFused`登陆账号密码
