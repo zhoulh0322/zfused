@@ -7,7 +7,7 @@
 ## 软件版本
 - `zFused Desktop 3.3.2.2`版本或更高版本
 - `zFused Link 1.3.2.2`版本或更高版本
-- `zFused Mini 0.0.2.0`版本或更高版本，[0.0.2.0版本 点击下载](https://pan.baidu.com/s/1tIETI-QcfotwcxAFsqrojg?pwd=i9bp)
+- `zFused Mini 0.0.2.1`版本或更高版本，[0.0.2.1版本 点击下载](https://pan.baidu.com/s/15zYcJwIEWyvAQG0LCyT8PA?pwd=l2x8)
 
 ## 上传临时文件 - 公司电脑
 此步骤是公司内部机器或家里机器远程的公司内部机器
@@ -28,7 +28,7 @@
 
 > 需安装`zFused Mini`,vpn登陆公司网络
 > 
-> [安装地址](https://pan.baidu.com/s/1tIETI-QcfotwcxAFsqrojg?pwd=i9bp)
+> [安装地址](https://pan.baidu.com/s/15zYcJwIEWyvAQG0LCyT8PA?pwd=l2x8)
 
 - 打开`zFused Mini`软件，登陆
 - 登陆密码为`zFused Desktop`或者`zFused Link`登陆账号密码
