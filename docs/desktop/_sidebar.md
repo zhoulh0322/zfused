@@ -17,7 +17,10 @@
   * [审批系统](/desktop/module/approval.md)
   * [Note系统](/desktop/module/note.md)
   * [反馈系统](/desktop/module/feedback.md)
-  * 
+
+* 小工具集
+  * [切换任务关联](/desktop/tool/replace_relative_task.md)
+
 * 插件
   * [工时-预计工时](/desktop/plugin/update_esttime.md)
 

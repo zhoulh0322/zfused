@@ -18,24 +18,24 @@
 ![](sources/image/install/install_path.jpg ':size=600')
 
 ## 插件更新
-__1. 从我们的github地址下载最新的pipeline代码 [`仓库地址`](https://github.com/zhoulh0322/zfused_outsource)__
-
+__1. `国外地址`从我们的github地址下载最新的pipeline代码 [`仓库地址，点击下载`](https://github.com/zhoulh0322/zfused_outsource)__  
 ![](sources/image/install/githubpath.jpg ':size=600')
 
-__2. 插件内部的更新按钮__
+__2. `国内地址`从我们的gitee地址下载最新的pipeline代码 [`仓库地址，点击下载`](https://gitee.com/zfused/zfused_outsource)__    
+![](sources/image/install/Snipaste_2023-01-03_12-26-42.png ':size=600')
 
+__3. 插件内部的更新按钮__  
 ![](sources/image/install/mayaupdate.jpg ':size=600')
 
-__3. 插件内部的更新命令__
+__4. 插件内部的更新命令__  
 ```python
 from zwidgets.updatewidget import updatewidget
 ui = updatewidget.UpdateWidget()
 ui.show()
 ```
 
-__4. 更新插件后，`reload` 重新加载插件__
-- `zfused_outsource` > `init` > ` refresh and reload`
-
+__5. 更新插件后，`reload` 重新加载插件__  
+- `zfused_outsource` > `init` > ` refresh and reload`  
 ![](sources/image/install/refresh.png ':size=600')
 
 ## DCC插件安装
