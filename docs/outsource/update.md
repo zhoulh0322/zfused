@@ -1,3 +1,9 @@
+## 2023.02.23
+> 修复部分BUG
+>
+> 更新最新版本`下载地址`(https://pan.baidu.com/s/134DV77UAcKVPKGsIP73_kw?pwd=be17)
+
+
 ## 2022.12.06
 > 更新任务文件接收管理UI [功能说明](/outsource/README?id=key-license)
 

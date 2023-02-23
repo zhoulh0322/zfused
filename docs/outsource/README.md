@@ -8,7 +8,7 @@
 ## key license
 - 关于项目保密信息，插件部分功能现在需要 license 访问
 - key.lic 存放地址为 `P:\zfused\pipeline\zfused_outsource\key.lic`
-
+- key.lic 到期后无妨访问，需向甲方寻求最新lic
 
 ## 插件信息
 + 插件名称：zFused_outsource
