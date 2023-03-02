@@ -1,3 +1,11 @@
+## 2023.03.02
+> 修复登陆BUG
+> 
+> 修改 maya playblast ui
+>
+> 更新最新版本`下载地址`(https://pan.baidu.com/s/1g14ik66z1X6XOCh5Kw1Jrw?pwd=3a47)
+
+
 ## 2023.02.23
 > 修复部分BUG
 >
