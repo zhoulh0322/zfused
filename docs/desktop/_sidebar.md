@@ -20,7 +20,7 @@
 
 * 小工具集
   * [切换任务关联](/desktop/tool/replace_relative_task.md)
-
+  * [检查文件](/desktop/tool/file_check.md)
 * 插件
   * [工时-预计工时](/desktop/plugin/update_esttime.md)
 
