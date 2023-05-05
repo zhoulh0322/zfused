@@ -35,3 +35,6 @@
 
 * 汇总 待定
   * [灯光预渲](/pipeline/maya/tool/utility/pre_light.md)
+
+* plug-ins
+  * [alembic](/pipeline/maya/plug-ins/alembic.md)
