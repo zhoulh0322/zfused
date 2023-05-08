@@ -1,5 +1,7 @@
 修改 `maya alembic export` 部分功能
 
+> 使用方法`zfused_alembic_export -j " -zfusedroot ** -root ** -zfusedsuffix ** "` 
+
 ## -zfusedroot
 - 类似 `-selection` 参数功能，但是 `-zfusedroot` 不需要选择，使用方法类似`-root`
 
