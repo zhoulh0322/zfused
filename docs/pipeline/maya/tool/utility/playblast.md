@@ -1,6 +1,6 @@
 可自定义屏显拍屏系统，基于qt二次开发显示，完全可自定义
 
-## 启动插件
+### 启动插件
 - 菜单启动 
     `zfused_maya` > `utility` > `playblast`
 - 代码启动
@@ -10,14 +10,14 @@
     window.show()
     ```
 
-## UI
-![](pipeline/../../../images/playblast.png)
+### UI
+![](pipeline/../../../images/playblast.png ':size=600')
 
-## 拍屏设置
+### 拍屏设置
 - 按照项目配置自动化设置尺寸，可支持 `1.0` `0.5` 倍缩放拍屏
 - 可自定义设置存放目录，默认为当前文件地址
 
-## 自定义配置
+### 自定义配置
 - 以`json`格式作为配置化文件，需提交到`zFused`项目变量里面
 - 项目变量名为：`playblast_maya`
 

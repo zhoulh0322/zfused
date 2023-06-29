@@ -23,6 +23,8 @@
   * [检查文件](/desktop/tool/file_check.md)
 * 插件
   * [工时-预计工时](/desktop/plugin/update_esttime.md)
+  * [替换文本字符](/desktop/plugin/replace_string.md)
+  * [更新工时](/desktop/plugin/update_task_time.md)
 
 * vpn专区
   * [临时文件夹](/desktop/vpn/temp_file.md)

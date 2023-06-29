@@ -1,4 +1,4 @@
-## 启动插件
+### 启动插件
 - 菜单启动 
     `zfused_maya` > `modeling` > `Model Arrange`
 - 代码启动
@@ -8,8 +8,8 @@
     ui.showUi()
     ```
 
-## UI
-![](pipeline/../../../images/modeling/ModelArrange/modelarrange.png)
+### UI
+![](pipeline/../../../images/modeling/ModelArrange/modelarrange.png ':size=300')
 
 ## 角色组创建
 
@@ -20,7 +20,7 @@
 5. 点击对应组
 6. 物体已被放进对应组并自动重命名
 
-![](pipeline/../../../images/modeling/ModelArrange/chargroup.png)
+![](pipeline/../../../images/modeling/ModelArrange/chargroup.png ':size=800')
 
 ## 道具组创建
 
@@ -32,13 +32,13 @@
 6. 输入零件名称
 7. 物体已被放进geometry组下对应零件组内并自动重命名
 
-![](pipeline/../../../images/modeling/ModelArrange/propgroup.png)
+![](pipeline/../../../images/modeling/ModelArrange/propgroup.png ':size=800')
 
 ## 场景组创建
 与道具组创建方式相同，只是第二步改为场景模式（Scene）
 
-## 注意
+### 注意
 - 相同组内的模型命名相同，后缀会自动按照`_001`格式依次往上叠加
 - 角色和道具的`_geometry_group` 组上带有rendering属性用于后续环节输出渲染模型，请勿勾掉该属性
 
-![](pipeline/../../../images/modeling/ModelArrange/rendering.png)
+![](pipeline/../../../images/modeling/ModelArrange/rendering.png ':size=400')

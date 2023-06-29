@@ -1,4 +1,4 @@
-## 启动插件
+### 启动插件
 - 菜单启动 
     `zfused_maya` > `modeling` > `arnold subdivision set`
 - 代码启动
@@ -9,10 +9,10 @@
     arnold_subdivision_set.UI()
     ```
 
-## UI
+### UI
 ![](pipeline/../../../images/modeling/arnold_subdivision.png)
 
-## 使用方法
+### 使用方法
 1. 选择模型，UI下方会显示所选物体的arnold细分信息
 2. 按需要更改`SubdivisionTy`(细分类型)和`Iterations`(细分层数)
    （细分类型为`none`时物体无细分）
