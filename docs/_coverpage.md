@@ -17,9 +17,9 @@
     <font size= "4">Pipeline也可以很简单</font>
 </div>
 
-[zFused Desktop](desktop/README)
-[zFused Pipeline](pipeline/README)
-[zFused Outsource](outsource/README)
+[制片/主管端(Desktop)](desktop/README)
+[制作端(Link)](pipeline/README)
+[外包端(Net)](outsource/README)
 [Get Started](README)
 
 <!-- 背景图片 -->
