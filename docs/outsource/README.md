@@ -1,84 +1,72 @@
-`zFused Outsource` 外包插件安装与更新
+`zFused Net` 外包端安装与更新
 
-## 安装需求
-- 需要链接互联网
-- 如果开翻墙软件可能会导致插件运行效率降低
-- 如果限制上网行为，可以单独开通IP地址 `47.103.77.93`
+## 客户端安装
+甲方提供软件安装包，安装包内包含zFusedNet`客户端文件`和为每个供应商单独提供的`配置文件`
 
-## key license
-- 关于项目保密信息，插件部分功能现在需要 license 访问
-- key.lic 存放地址为 `P:\zfused\pipeline\zfused_outsource\key.lic`
-- key.lic 到期后无妨访问，需向甲方寻求最新lic
+![](sources/image/install/net_pack.png ':size=550')
 
-## 插件信息
-+ 插件名称：zFused_outsource
-+ 插件完整地址 ：P:\zfused\pipeline  (本路径需开通读取和修改权限)
-+ 插件完整路径：P:\zfused\pipeline\zfused_outsource
+将客户端文件夹`zfused_net`拷贝到任意本地路径
 
-![](sources/image/install/install_path.jpg ':size=600')
+![](sources/image/install/net_install.png ':size=600')
 
-## 插件更新
-__1. `国外地址`从我们的github地址下载最新的pipeline代码 [`仓库地址，点击下载`](https://github.com/zhoulh0322/zfused_outsource)__  
-![](sources/image/install/githubpath.jpg ':size=600')
+## 客户端启动
+关乎于项目保密与信息独立，软件使用需要绑定以公司为单位的配置文件`.zfusedlic`
 
-__2. `国内地址`从我们的gitee地址下载最新的pipeline代码 [`仓库地址，点击下载`](https://gitee.com/zfused/zfused_outsource)__    
-![](sources/image/install/Snipaste_2023-01-03_12-26-42.png ':size=600')
+1. 双击`zFusedNet.exe`执行应用程序打开界面
+2. 将配置文件拖到界面中间（首次需要拖配置文件进来，界面内已显示配置文件后不用再进行这步操作）
+3. 点击登陆
 
-__3. 插件内部的更新按钮__  
-![](sources/image/install/mayaupdate.jpg ':size=600')
+![](sources/image/install/net_lic.png ':size=600')
 
-__4. 插件内部的更新命令__  
-```python
-from zwidgets.updatewidget import updatewidget
-ui = updatewidget.UpdateWidget()
-ui.show()
-```
+## 配置文件修改
+配置文件中包含插件包安装总路径，默认安装路径为 `P:/zfused/packages`，路径可以根据需要自行修改，如需修改建议目标路径为公司内部网络共享路径
 
-__5. 更新插件后，`reload` 重新加载插件__  
-- `zfused_outsource` > `init` > ` refresh and reload`  
-![](sources/image/install/refresh.png ':size=600')
+1. 将配置文件用记事本打开
+2. 如图所示位置，可以修改变量路径来自定义zfused依赖插件包安装的位置
+3. 修改路径后重新保存配置文件
 
-## DCC插件安装
-__Maya 插件安装__
-+ 将useSetup.py 文件 拷贝至 我的文档\maya\版本\scripts\目录下
-+ P:\zfused\pipeline\zfused_outsource\scripts\maya\userSetup.py
+![](sources/image/install/net_lic_change.png ':size=800')
 
-__Houdini 插件安装__
-+ 将123.py 文件拷贝至 我的文档 \houdini版本 \scripts\目录下
-+ P:\zfused\pipeline\zfused_outsource\scripts\houdini\123.py
+> 配置文件中包含许可信息 key.lic 如果许可到期后将无法访问，需向甲方寻求最新配置文件
+> 插件包安装路径需要开启读取修改权限，用于获取和更新插件
 
-__Katana 插件安装__
-+ 将 init.py 文件拷贝至 C:\Users\用户名\.katana\Startup\ 目录下
-+ P:\zfused\pipeline\zfused_outsource\scripts\katana\init.py
 
-## 公司登陆
-插件需要设置公司名称，点击设置切换公司
+## 客户端更新
+如果云端有客户端版本更新，该更新消息会同步到各供应商方，需要更新后再使用，打开应用程序之后顶端会显示有最新版需要下载更新，点击`下载更新`会开始分析版本文件并更新，完成后点击`重新启动`，重新登录即完成更新
 
-![](sources/image/install/company_change.jpg ':size=600')
+![](sources/image/install/net_refresh.png ':size=800')
+![](sources/image/install/net_refresh_ing.png ':size=800')
+![](sources/image/install/net_refresh_ed.png ':size=800')
 
-插件初次启动，会提示输入公司名称，可填写公司简称，系统自动匹配
+## 插件包更新
+登录软件之后，需要保证插件包存在且都为最新版本
 
-![](sources/image/install/company_name.jpg ':size=600')
+1. 切换到 `插件管理` 菜单栏，这里显示的是所有依赖插件包的目录，插件包安装根路径由配置文件决定
+2. 首次安装点击 `全部更新下载` 会统一安装所有插件包的最新版本，后续更新点击 `检测更新` ，可以检查是否存在新版本，如果显示 `需要更新` 点击右面下载按钮可以下载该插件包的最新版本
 
-## 项目选择
-插件设置公司后可切换至具体项目
+![](sources/image/install/net_packages.png ':size=800')
 
-![](sources/image/install/project_set.jpg ':size=600')
+## DCC软件启动
+1. 登录软件之后切换到当前制作项目
+2. 在`软件管理`菜单栏中可以看到各dcc软件信息
+   + 针对MAYA软件，目前支持两种安装路径：
+    Autodesk默认安装路径 / 区分小版本路径（C:\Program Files\Autodesk\Maya-202x\Maya202x.x\bin）
+3. 确保当前插件包皆为最新版本
+4. 点击对应dcc软件的按钮即可启动对应软件
 
-## 项目文件夹权限检查
-外包没有`zfused transfer`服务中转传输协议，所以需要所有项目文件夹`读取` `写入`权限
+![](sources/image/install/net_dcc.png ':size=800')
 
-?> 如果报错的，需联系 `IT` 予以解决，不然`zfused`发布或者领取会失败！
+## MAYA启动界面
+打开MAYA后在菜单上看到 `zFused_outsource` 说明已成功启动zfused环境，点击 `zFused_outsource` ，里面包括了公司信息与各环节相关插件，点击右侧的项目名称可以修改当前项目
 
-- 菜单启动文件夹权限检查
+![](sources/image/install/net_maya.png ':size=950')
 
-    `zfused` 提供权限检查插件 `zfused_outsource` > `init` > `project path permission`
-- 代码启动文件夹去权限检查
+## 任务管理
+显示为本供应商分配的任务信息，可以下载任务相关联的文件
 
-    ```python
-    from zfused_maya.tool.init import permission_widget
-    window = permission_widget.PermissionWidget()
-    window.show()
-    ```
+![](sources/image/install/net_task_manage.png ':size=800')
 
-![](sources/image/install/project_path_permission.png ':size=600')
+## 文件管理
+显示为本供应商分配的任务信息，可以下载任务相关联的文件
+
+![](sources/image/install/net_file_manage.png ':size=800')
