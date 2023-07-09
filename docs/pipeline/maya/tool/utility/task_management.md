@@ -1,8 +1,8 @@
-项目环节检查
+任务上传下载系统
 
 ### 启动插件
 - 菜单启动 
-    `zfused_maya` > `utility` > `project_step_check`
+    `zfused_maya` > `utility` > `task management`
 - 代码启动
     ```python
     from zfused_maya.tool.utility import check_manage

@@ -1,4 +1,4 @@
-* [**客户端安装**](/desktop/)
+* [**客户端安装**](/desktop/quick_start/install.md)
   
 * **快速上手**
   * [界面介绍](/desktop/quick_start/interface.md)
@@ -15,6 +15,7 @@
   * [场景装配](/desktop/project/assembly.md)
   * [镜头](/desktop/project/shot.md)
   * [任务](/desktop/project/task.md)
+  * [项目农场](/desktop/project/farm.md)
 
 * **外包管理**
   * [外包公司](/desktop/outsource/company.md)
@@ -29,12 +30,10 @@
   * [聊天系统](/desktop/module/talk.md)
 
 * **插件工具集**
-  * [系统文件处理](/desktop/plugin/file.md)
-  * [MAYA文件处理](/desktop/plugin/mayafiles.md)
-  * [视频文件处理](/desktop/plugin/video.md)
-  * [zFused工具](/desktop/plugin/zfused.md)
+  * [文件处理工具](/desktop/plugin/files.md)
+  * [项目工具](/desktop/plugin/mayafiles.md)
+  * [zFused软件工具](/desktop/plugin/zfused.md)
   * [工时数据工具](/desktop/plugin/worktime.md)
-
 
 
 
