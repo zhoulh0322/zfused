@@ -20,7 +20,7 @@
 [制片/主管端(Desktop)](desktop/README)
 [制作端(Link)](pipeline/README)
 [外包端(Net)](outsource/README)
-[Get Started](README)
+[开始浏览](README)
 
 <!-- 背景图片 -->
 ![](/_logo/BG.gif)

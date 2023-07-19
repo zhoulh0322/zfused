@@ -1,5 +1,5 @@
-* [**zFused Desktop**](/desktop/)
+* [**制片/主管端(Desktop)**](/desktop/)
 
-* [**zFused Pipeline**](/pipeline/)
+* [**制作端(Link)**](/pipeline/)
 
-* [**zFused Outsource**](/outsource/)
+* [**外包端(Net)**](/outsource/)
