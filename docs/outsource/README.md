@@ -70,3 +70,22 @@
 显示为本供应商分配的任务信息，可以下载任务相关联的文件
 
 ![](sources/image/install/net_file_manage.png ':size=800')
+
+## 文件上传回收
+文件制作完成后，上传到云上供甲方获取文件和打包文件，这里以资产的模型-预览任务为例说明步骤：
+
+1. 打开 `zFused outsource` - `utility` - `任务管理` 
+2. 筛选实体类型，以资产为例，找到资产环节
+3. 筛选实体任务环节，以模型预览任务为例，勾选 模型-预览
+4. 在资产列表中找到对应的资产任务，支持关键字中英文搜索
+5. 在对应资产任务上右键 `任务文件上传`
+6. 开始上传之后，首先进入检查程序
+7. 检查如果没有通过，会弹出检查信息，需要将检查问题都排查清除之后才可以继续上传，点击`重新上传`
+8. 上传成功后会弹窗显示路径地址，这是文件以及他相关文件的压缩包存放路径
+9. 复制路径到本地查看，压缩包内便是打包整理好的任务文件(后续将自动化云端传输处理，目前功能还在测试完善中)
+
+![](sources/image/install/recycle.png ':size=900')
+![](sources/image/install/publish_fst.png ':size=900')
+![](sources/image/install/publish_check.png ':size=900')
+![](sources/image/install/publish_ed.png ':size=900')
+![](sources/image/install/zip.png ':size=800')
