@@ -67,7 +67,7 @@
 ![](sources/image/install/net_task_manage.png ':size=800')
 
 ## 文件管理
-显示为本供应商分配的任务信息，可以下载任务相关联的文件
+显示为本供应商分配的任务信息相关联的文件，可以校检更新版本文件
 
 ![](sources/image/install/net_file_manage.png ':size=800')
 
