@@ -1,3 +1,5 @@
+* [**更新日志**](/desktop/update.md)
+
 * [**客户端安装**](/desktop/quick_start/install.md)
   
 * **快速上手**
