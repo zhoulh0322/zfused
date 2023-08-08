@@ -17,12 +17,13 @@
 ![](../images/quick_start/producer/show_mode_gante.png)
 
 ## 任务分配人员
-+ 内部人员分配
+<!-- + 内部人员分配 -->
 找到任务详情部分的`指定人员`列，点击人物图标，即可在弹出的界面中选择制作人员将任务分配给他，下图分别为行列与竖列显示模式下，人员指定的位置
-    > 如果指定用户界面中找不到目标人员，请先确认该用户是否被添加到该项目的环节成员中
 
-    ![](../images/quick_start/producer/task_assign.png )
-    ![](../images/quick_start/producer/task_assign2.png )
+如果指定用户界面中找不到目标人员，请先确认该用户是否被添加到该项目的环节成员中
+
+![](../images/quick_start/producer/task_assign.png )
+![](../images/quick_start/producer/task_assign2.png )
 
 ## 视效审核
 单个多个视效的审核
@@ -55,4 +56,4 @@
 6. 在右上角会显示该镜头环节的提交审核信息
 7. 在右侧可以设置循环规则或批量下载视频到自定义路径
 
-    ![](../images/quick_start/supervisor/checkall.png )
+![](../images/quick_start/supervisor/checkall.png )

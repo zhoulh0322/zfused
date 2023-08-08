@@ -1,5 +1,10 @@
 `zFused Net` 外包端安装与更新
 
+## 客户端地址
+
+#### zfused_net 0.0.4.1
+`下载地址`(https://pan.baidu.com/s/1g14ik66z1X6XOCh5Kw1Jrw?pwd=3a47)
+
 ## 客户端安装
 甲方提供软件安装包，安装包内包含zFusedNet`客户端文件`和为每个供应商单独提供的`配置文件`
 

@@ -8,11 +8,12 @@
 + 插件：集成插件库，包括文件视频图像处理等工具，由技术人员持续更新
 + 设置：软件架构设置，账户部门软件等  
 
-  ![](../images/quick_start/interface/menu.gif)
+![](../images/quick_start/interface/menu.gif)
 
 ## 我的任务
 
-  ![](../images/quick_start/interface/mytask.png)
+![](../images/quick_start/interface/mytask.png)
 
 ## 项目
-  ![](../images/quick_start/interface/project.png)
+
+![](../images/quick_start/interface/project.png)

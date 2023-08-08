@@ -35,15 +35,16 @@
   4. 勾选要创建任务的环节，支持多选
   5. 勾选后会弹出任务设置界面，再这里可以设置任务信息，比如制作人员
 
-    ![](../images/quick_start/producer/task_create.png)
+![](../images/quick_start/producer/task_create.png)
+
 + **快捷创建**
   1. 点击对应模块，以资产任务为例即点击资产
   2. 切换显示模式为竖列，可以同时列出多个资产的环节任务情况
   3. 找到要创建任务的资产
   4. 找到要创建任务的环节，点击左侧箭头展开环节信息
   5. 在对应资产的对应环节处，点击加号`十`，即可创建出该资产的对应任务，支持多选资产同时创建
-    
-    ![](../images/quick_start/producer/task_create_quick.png)
+
+![](../images/quick_start/producer/task_create_quick.png)
 
 ## 项目人员添加
 处于环节内的成员才可以领取该环节任务，成员在添加到环节时会自动添加到总项目成员内，不需要再次添加
@@ -65,13 +66,9 @@
 找到任务详情部分的`指定人员`列，点击人物图标，即可在弹出的界面中选择制作人员将任务分配给他，下图分别为行列与竖列显示模式下，人员指定的位置
     > 如果指定用户界面中找不到目标人员，请先确认该用户是否被添加到该项目的环节成员中
 
-    ![](../images/quick_start/producer/task_assign.png ':size=900')
-    ![](../images/quick_start/producer/task_assign2.png ':size=900')
-+ 供应商分配
-找到任务详情部分的`制作部门`列，点击铅笔图标，即可在弹出的界面中选择制作外包公司将任务分配给对应供应商
-    > 如果分配供应商界面中找不到目标供应商，请先确认该公司是否被添加到该项目外包中
+![](../images/quick_start/producer/task_assign.png ':size=900')
+![](../images/quick_start/producer/task_assign2.png ':size=900')
 
-    ![](../images/quick_start/producer/task_assign_out.png ':size=900')
 
 ## 审批人员设置
 制作人员发布审核之后，需要主管或制片审批通过，审批之前要先设置各个环节的审核人员
@@ -80,14 +77,33 @@
 3.	选择要添加的人员点击确认添加
 4.	如果有多余的人员，点击头像会删除掉该人员
 
-    ![](../images/quick_start/producer/add_supervisor.png ':size=900')
+![](../images/quick_start/producer/add_supervisor.png ':size=900')
 
 ## 实体状态
 + 资产、场景、镜头类型实体的状态显示为百分数，对应为整个实体的制作上传进度，在这里可以点击将对应实体设置冻结状态  
-![](../images/quick_start/producer/entity_status.png ':size=400')
-  
+
+![](../images/quick_start/producer/entity_status.png ':size=400')    
+
 + 任务类型实体的状态显示为具体的信息  
+
 ![](../images/quick_start/producer/entity_status_task.png ':size=800')
+
+## 供应商任务分配
+找到任务详情部分的`制作部门`列，点击铅笔图标，即可在弹出的界面中选择制作外包公司将任务分配给对应供应商
+> 如果分配供应商界面中找不到目标供应商，请先确认该公司是否被添加到该项目外包中    
+  
+![](../images/quick_start/producer/task_assign_out.png ':size=900')
+
+## 供应商任务文件提取
+选择需要发送给供应商文件的任务，右击`提取版本文件`选择提取至本机`或`提取至内部云端
+
+![](../images/quick_start/producer/extract_task_file_01.png ':size=900')
+
+选择需要提取文件的供应商，点击提取文件
+
+![](../images/quick_start/producer/extract_task_file_02.png ':size=500')
+
+!> 如果提取文件至云端，需等待内部文件提交至对外服务器
 
 ## 外包文件管理
 1. 点击 项目-外包 ，这里是管理该项目外包文件的地方
@@ -96,5 +112,6 @@
 4. 选择提取任务管理，这里可以查看内部提取出的给到外包的任务文件情况
 5. 点击分析更新可以分析当前任务文件版本是否为最新版本，如果不是最新版本会显示红色需更新，在对应任务条上右键可以选择提取最新文件至本地或云端
 6. 点击检索可以筛选实体类型及项目环节等
-7. 在制作任务管理中可以查看相关制作任务，在这里会过滤其他的任务，方便快速找到所有该外包相关任务进行后续操作
+7. 在制作任务管理中可以查看相关制作任务，在这里会过滤其他的任务，方便快速找到所有该外包相关任务进行后续操作    
+
 ![](../images/quick_start/producer/outsource_manage.png ':size=800')
