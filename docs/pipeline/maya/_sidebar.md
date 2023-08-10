@@ -1,11 +1,11 @@
 * [**更新日志**](/pipeline/maya/update.md)
 
-* **小白分区**
+* 快速入门
   * [基本流程](/pipeline/maya/getting_started/pipeline.md)
+  * [基本界面](/pipeline/maya/getting_started/interface.md)
 
-* **Interface**
-  * [切换制作任务](/pipeline/maya/interface/quick_task.md)
-  * [常用插件管理](/pipeline/maya/interface/quick_tool.md)
+* 流程方案
+  * [大场景拆分与拼装](/pipeline/maya/scheme/assembly_set.md)
 
 * 通用工具集
   * [资产文件管理](/pipeline/maya/tool/utility/asset_management.md)
