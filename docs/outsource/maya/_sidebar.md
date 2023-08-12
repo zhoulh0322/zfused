@@ -10,6 +10,8 @@
   * [文件组装](/outsource/maya/receive_file.md)
 
 * 常用工具集
+  * [资产文件管理](/outsource/maya/tool/utility/asset_management.md)
+  * [场景文件管理](/outsource/maya/tool/utility/assembly_management.md)
   * [文件切换](/outsource/maya/tool/utility/switch_file.md)
   * [项目步骤检查](/outsource/maya/tool/utility/project_step_checks.md)
   

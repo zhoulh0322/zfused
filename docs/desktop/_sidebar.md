@@ -21,7 +21,7 @@
 
 * **外包管理**
   * [外包公司](/desktop/outsource/company.md)
-  * [文件管理](/desktop/outsource/file.md)
+  * [文件管理](/desktop/outsource/manage.md)
 
 * **审阅系统**
   * [视效审核](/desktop/module/review.md)
