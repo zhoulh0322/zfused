@@ -6,7 +6,7 @@
 ![](../images/outsource/company/company_add.png ':size=1000')  
 
 ## 外包启动器
-外包商使用外包客户端（zFusedNet）可以云端同步领取/更新版本文件或上传任务文件，在使用前需要对外包商进行配置，需要联系官方技术人员配置
+外包商使用外包客户端（zFusedNet）可以云端同步领取/更新版本文件或上传任务文件，在使用前需要对每个外包商进行配置，需要联系官方技术人员配置
 
 ![](../images/outsource/company/company_net.png ':size=800')  
 

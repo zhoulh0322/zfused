@@ -2,26 +2,32 @@
 
 ## 客户端地址
 
-#### zfused_net 0.0.4.1
-`下载地址`(https://pan.baidu.com/s/1g14ik66z1X6XOCh5Kw1Jrw?pwd=3a47)
+#### zfused_net 0.0.4.3：[`下载地址`](https://pan.baidu.com/s/1utrclixzk3QMV-WZLNyt6A?pwd=tjbg)
 
 ## 客户端安装
-甲方提供软件安装包，安装包内包含zFusedNet`客户端文件`和为每个供应商单独提供的`配置文件`
+  
+###### **1. 自行下载软件`安装包`**
++ 安装包由云盘下载，需要联网：[`点我跳转下载`](https://pan.baidu.com/s/1utrclixzk3QMV-WZLNyt6A?pwd=tjbg)
++ 将客户端文件夹`zfused_net`解压到任意本地路径  
+ ![](sources/image/install/net_install.png ':size=600')
 
-![](sources/image/install/net_pack.png ':size=550')
 
-将客户端文件夹`zfused_net`拷贝到任意本地路径
+  ###### **2. 甲方提供针对该供应商的`配置文件`**
+ ![](sources/image/install/zfusedlic.png ':size=550')
 
-![](sources/image/install/net_install.png ':size=600')
+
 
 ## 客户端启动
 关乎于项目保密与信息独立，软件使用需要绑定以公司为单位的配置文件`.zfusedlic`
 
 1. 双击`zFusedNet.exe`执行应用程序打开界面
-2. 将配置文件拖到界面中间（首次需要拖配置文件进来，界面内已显示配置文件后不用再进行这步操作）
+2. 将配置文件拖到界面中间  
+    ![](sources/image/install/net_lic.png ':size=600')
 3. 点击登陆
-
-![](sources/image/install/net_lic.png ':size=600')
+> #### **注意**：  
+> + 首次登录需拖配置文件，当界面内已显示配置文件后不用再进行这步操作，配置文件有更新时，也需要重新拖一次  
+> + 与多个甲方有同zf平台的合作时，可以通过切换配置文件来进入不同甲方的环境  
+    ![](sources/image/install/switch_lic.png ':size=250')
 
 ## 配置文件修改
 配置文件中包含插件包安装总路径，默认安装路径为 `P:/zfused/packages`，路径可以根据需要自行修改，如需修改建议目标路径为公司内部网络共享路径

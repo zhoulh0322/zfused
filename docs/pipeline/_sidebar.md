@@ -2,7 +2,7 @@
 
 * **快速上手**
   * [界面介绍](/pipeline/quick_start/interface.md)
-  * [快速入门](/pipeline/quick_start/producer.md)
+  * [快速入门](/pipeline/quick_start/primer.md)
 
 * **系统功能**
   * [TD帮助](/pipeline/system/TDhelp.md)
