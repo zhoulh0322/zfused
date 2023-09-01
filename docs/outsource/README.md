@@ -2,12 +2,14 @@
 
 ## 客户端地址
 
-#### zfused_net 0.0.4.3：[`下载地址`](https://pan.baidu.com/s/1utrclixzk3QMV-WZLNyt6A?pwd=tjbg)
+#### zfused_net 0.0.4.8：[`下载地址`](https://pan.baidu.com/s/18T6wlriFvCMYRNuUqCQEQA?pwd=vd26)
+<!-- #### zfused_net 0.0.4.3：[`下载地址`](https://pan.baidu.com/s/1utrclixzk3QMV-WZLNyt6A?pwd=tjbg) -->
+
 
 ## 客户端安装
   
 ###### **1. 自行下载软件`安装包`**
-+ 安装包由云盘下载，需要联网：[`点我跳转下载`](https://pan.baidu.com/s/1utrclixzk3QMV-WZLNyt6A?pwd=tjbg)
++ 安装包由云盘下载，需要联网：[`点我跳转下载`](https://pan.baidu.com/s/18T6wlriFvCMYRNuUqCQEQA?pwd=vd26)
 + 将客户端文件夹`zfused_net`解压到任意本地路径  
  ![](sources/image/install/net_install.png ':size=600')
 

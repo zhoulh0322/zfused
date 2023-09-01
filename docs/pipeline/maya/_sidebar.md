@@ -7,7 +7,8 @@
 * 流程方案
   * [大场景拆分与拼装](/pipeline/maya/scheme/assembly_set.md)
 
-* 通用工具集
+* 插件工具
+  * [模型](/pipeline/maya/tool/utility/asset_management.md)
   * [资产文件管理](/pipeline/maya/tool/utility/asset_management.md)
   * [场景文件管理](/pipeline/maya/tool/utility/assembly_management.md)
   * [拍屏工具](/pipeline/maya/tool/utility/playblast.md)
